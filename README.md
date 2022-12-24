@@ -3,6 +3,6 @@
 * Players must arrange their marks such that they form a continuous line of three cells that runs either vertically, horizontally, or diagonally.
 
 ## Tech:
-- HTML5
+- HTML
 - CSS
 - JS
